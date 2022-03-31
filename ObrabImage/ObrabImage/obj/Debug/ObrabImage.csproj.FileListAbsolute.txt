@@ -1,0 +1,10 @@
+X:\materials\obrabimage\ObrabImage\ObrabImage\bin\Debug\ObrabImage.exe.config
+X:\materials\obrabimage\ObrabImage\ObrabImage\bin\Debug\ObrabImage.exe
+X:\materials\obrabimage\ObrabImage\ObrabImage\bin\Debug\ObrabImage.pdb
+X:\materials\obrabimage\ObrabImage\ObrabImage\obj\Debug\ObrabImage.csprojAssemblyReference.cache
+X:\materials\obrabimage\ObrabImage\ObrabImage\obj\Debug\ObrabImage.Form1.resources
+X:\materials\obrabimage\ObrabImage\ObrabImage\obj\Debug\ObrabImage.Properties.Resources.resources
+X:\materials\obrabimage\ObrabImage\ObrabImage\obj\Debug\ObrabImage.csproj.GenerateResource.cache
+X:\materials\obrabimage\ObrabImage\ObrabImage\obj\Debug\ObrabImage.csproj.CoreCompileInputs.cache
+X:\materials\obrabimage\ObrabImage\ObrabImage\obj\Debug\ObrabImage.exe
+X:\materials\obrabimage\ObrabImage\ObrabImage\obj\Debug\ObrabImage.pdb
